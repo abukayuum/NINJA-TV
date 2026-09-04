@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
-
 #EXTINF:-1 tvg-id="2" tvg-name="NRL vs NRL" tvg-logo="https://img.sofascore.com/api/v1/team/7313/image" group-title="Live Event",NRL vs NRL
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD
 
