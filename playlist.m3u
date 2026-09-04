@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="2" tvg-name="NRL vs NRL" tvg-logo="https://img.sofascore.com/api/v1/team/7313/image" group-title="Live Event",NRL vs NRL
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD
-
 #EXTINF:-1 tvg-id="3" tvg-name="Barbados Tridents vs Saint Lucia Kings" tvg-logo="https://img.sofascore.com/api/v1/team/187795/image" group-title="Live Event",Barbados Tridents vs Saint Lucia Kings
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
 
