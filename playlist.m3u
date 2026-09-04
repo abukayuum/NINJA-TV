@@ -201,7 +201,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/BIJOY_TV.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="Bangladeshi",Asian Tv
-https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="62" tvg-name="Ananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s" group-title="Bangladeshi",Ananda Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
