@@ -70,7 +70,7 @@ https://file.genoads.com/ch1.m3u8#STREAM TV + HD
 https://file.genoads.com/ch1.m3u8#STREAM TV + HD
 
 #EXTINF:-1 tvg-id="24" tvg-name="Paris Saint-Germain vs AS Monaco" tvg-logo="https://img.sofascore.com/api/v1/team/1644/image" group-title="Live Event",Paris Saint-Germain vs AS Monaco
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beIN SPORTS en Español $ https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8#beIN SPORTS USA
+https://tvsen7.aynaott.com/espn/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-name="Ipswich Town vs Liverpool FC" tvg-logo="https://img.sofascore.com/api/v1/team/32/image" group-title="Live Event",Ipswich Town vs Liverpool FC
 https://file.genoads.com/ch1.m3u8#STREAM TV + HD
@@ -126,6 +126,11 @@ https://chatgpt.hereisman.net/playlist/55351/load-playlist?&.m3u8|Referer=https:
 #EXTINF:-1 tvg-id="42" tvg-name="One Friday Fights vs One Friday Fights" tvg-logo="https://i.ibb.co/qfjhxpT/20260313-084834.png" group-title="Live Event",One Friday Fights vs One Friday Fights
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d#One Fight FHD $ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271#STREAM 2 $ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd|drmScheme=clearkey&drmLicense=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0#STREAM 3 $ https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8#HD QUALITY
 
+
+
+#EXTINF:-1 tvg-id="59" tvg-name="Ntv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" group-title="News", Aljazeera News
+https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
+
 #EXTINF:-1 tvg-id="43" tvg-name="Peace Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s" group-title="Islamic Tv",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
@@ -137,6 +142,21 @@ https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="Bangladeshi",Btv News
 https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/0cff8323fa888ccb69dde38a6880f150.jpg" group-title="Bangladeshi",BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_25ab94e371e82ccbd0f03b2c7754c712_playmist_btv_national_400x400.jpg" group-title="Bangladeshi", BTV National
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg" group-title="Bangladeshi", BTV World
+https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="Bangladeshi", Channel 52
+https://tvsen6.aynaott.com/channel52/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e58bddfe000aa3e5df9f7c2e90416d90_playmist_global_tv_400x400.jpg" group-title="Bangladeshi", Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="47" tvg-name="Alpona Tv" tvg-logo="https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp" group-title="Bangladeshi",Alpona Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
@@ -252,6 +272,9 @@ https://bdstream.bdstreamhubiptv.workers.dev/CHANNEL_24.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10" group-title="BD News",News 24
 https://bdstream.bdstreamhubiptv.workers.dev/News_24.m3u8
 
+#EXTINF:-1 tvg-id="84" tvg-name="News 24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png" group-title="BD News", SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/tracks-a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="85" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s" group-title="BD News",Star News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 
@@ -355,7 +378,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT2.m3u8
 
 #EXTINF:-1 tvg-id="119" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="Sports",Ptv 
-https://bdstream.bdstreamhubiptv.workers.dev/PTV.m3u8
+https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="120" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="Sports",A Sports 
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
@@ -405,6 +428,9 @@ https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="135" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10" group-title="Movie's",Sony Max HD
 https://bdstream.bdstreamhubiptv.workers.dev/Sony_Max.m3u8
 
+#EXTINF:-1 tvg-id="135" tvg-name="Sony Max HD" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f22715a97b25bb49be73ed06edcabef_playmist_goldmines_movies_400x400.jpg" group-title="Movie's", Goldmines Movies
+https://tvsen3.aynaott.com/5CGfPvGp/tracks-a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="136" tvg-name="Star Gold Select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAVuswg-HXXdJXWIctxLVyPz4oUQW967Ihya1FUwzvC1D-SXIlEFg8zQ&s" group-title="Movie's",Star Gold Select
 https://bdstream.bdstreamhubiptv.workers.dev/GOLOD_SELECT.m3u8
 
@@ -412,7 +438,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/GOLOD_SELECT.m3u8
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
 #EXTINF:-1 tvg-id="138" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="Documentary",Discovery
-https://bdstream.bdstreamhubiptv.workers.dev/DISCOVER.m3u8
+https://tvsen3.aynaott.com/Zht5VqBb/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="139" tvg-name="Sony BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3ZcMMhI5x4KJKUQC5ZUy1iFqVr6mb7eVAzm0YrJCgA&s=10" group-title="Documentary",Sony BBC Earth
 https://bdstream.bdstreamhubiptv.workers.dev/SONY_BBC_EARTH.m3u8
