@@ -14,38 +14,35 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 tvg-id="59" tvg-name="Ntv" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" group-title="News", Aljazeera News
+#EXTINF:-1 tvg-id="38" tvg-name="Aljazeera News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" group-title="News",Aljazeera News
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="Peace Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s" group-title="Islamic Tv",Peace Tv
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8 $ 
+#EXTINF:-1 tvg-id="39" tvg-name="Peace Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s" group-title="Islamic Tv",Peace Tv
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="Makkah tv" tvg-logo="https://www.makkahlivemedia.com/assets/images/library/6a0884d916de3.png" group-title="Islamic Tv",Makkah tv
+#EXTINF:-1 tvg-id="40" tvg-name="Makkah tv" tvg-logo="https://www.makkahlivemedia.com/assets/images/library/6a0884d916de3.png" group-title="Islamic Tv",Makkah tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-name="Madani " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A3ClHhvEkOMtz7mbCO6RnaUK1S-Hov2yOPTneu81Sg&s=10" group-title="Islamic Tv",Madani 
+#EXTINF:-1 tvg-id="41" tvg-name="Madani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A3ClHhvEkOMtz7mbCO6RnaUK1S-Hov2yOPTneu81Sg&s=10" group-title="Islamic Tv",Madani 
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="Bangladeshi",Btv News
+#EXTINF:-1 tvg-id="42" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="Bangladeshi",Btv News
 https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/0cff8323fa888ccb69dde38a6880f150.jpg" group-title="Bangladeshi",BTV CTG
+#EXTINF:-1 tvg-id="43" tvg-name="BTV CTG" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/0cff8323fa888ccb69dde38a6880f150.jpg" group-title="Bangladeshi",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_25ab94e371e82ccbd0f03b2c7754c712_playmist_btv_national_400x400.jpg" group-title="Bangladeshi", BTV National
+#EXTINF:-1 tvg-id="44" tvg-name="BTV National" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_25ab94e371e82ccbd0f03b2c7754c712_playmist_btv_national_400x400.jpg" group-title="Bangladeshi",BTV National
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg" group-title="Bangladeshi", BTV World
+#EXTINF:-1 tvg-id="45" tvg-name="BTV World" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg" group-title="Bangladeshi",BTV World
 https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="Bangladeshi", Channel 52
+#EXTINF:-1 tvg-id="46" tvg-name="Channel 52" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="Bangladeshi",Channel 52
 https://tvsen6.aynaott.com/channel52/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="Btv News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e58bddfe000aa3e5df9f7c2e90416d90_playmist_global_tv_400x400.jpg" group-title="Bangladeshi", Global TV
+#EXTINF:-1 tvg-id="47" tvg-name="Global TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e58bddfe000aa3e5df9f7c2e90416d90_playmist_global_tv_400x400.jpg" group-title="Bangladeshi",Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="47" tvg-name="Alpona Tv" tvg-logo="https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp" group-title="Bangladeshi",Alpona Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="48" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="Bangladeshi",Sonsad Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -58,9 +55,6 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
 #EXTINF:-1 tvg-id="51" tvg-name="Chaanel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10" group-title="Bangladeshi",Chaanel i
 https://bdstream.bdstreamhubiptv.workers.dev/CHANNEL_i.m3u8
-
-#EXTINF:-1 tvg-id="52" tvg-name="Gazi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s" group-title="Bangladeshi",Gazi Tv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?bdstreamhub
 
 #EXTINF:-1 tvg-id="53" tvg-name="Deepto Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10" group-title="Bangladeshi",Deepto Tv
 https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8 $ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
@@ -370,4 +364,3 @@ http://live.balajibroadband.com:3500/live/1341.m3u8
 
 #EXTINF:-1 tvg-id="151" tvg-name="Nick" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ea86bedcc4f35a5855683f064d311b67_playmist_teen_nick_400x400.jpg" group-title="Cartoon", teen Nick
 https://tvsen7.aynaott.com/teennick/tracks-v1a1/mono.ts.m3u8
-
