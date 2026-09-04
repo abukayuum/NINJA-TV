@@ -313,10 +313,10 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/HUNGAMA_HD.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10" group-title="Cartoon",Sonic
-https://go.skym3u.top/live/25d38/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456c7654420c5d165d.m3u8?t=7160&s=cc7&id=ok4z.m3u
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=686717770
 
 #EXTINF:-1 tvg-id="106" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtaeVWP8Y2zUFQAdpqzY1cUfzcPW7JtNIEJCEYdGwAg&s=10" group-title="Cartoon",Disney
-https://bdstream.bdstreamhubiptv.workers.dev/DISNEY_SD.m3u8
+https://tvsen7.aynaott.com/disney/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-name="Discovery kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s" group-title="Cartoon",Discovery kids
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
