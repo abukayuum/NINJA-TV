@@ -125,7 +125,7 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="News 21 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa78-aGIGeUb8gJx4wys0KvPQ8PKqiBs_ysA1ubTc&s=10" group-title="Bangladeshi",News 21 Bangla
 http://103.190.133.68:1935/news21live/live/playlist.m3u8 $ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-name="Thikana Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg", group-title="Music", Thikana
+#EXTINF:-1 tvg-id="500" tvg-name="Thikana Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg", group-title="Music",Thikana
 https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w183694751.m3u8
 
 #EXTINF:-1 tvg-id="74" tvg-name="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTgLK5F6Tedh_SdoltPFlXLWw5Q6OWOF12Dr0TWNTtQ&s=10" group-title="BD 24/7",Movie
@@ -368,6 +368,6 @@ https://d2esfk1pb9cdob.cloudfront.net/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10" group-title="Cartoon",Nick
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
-#EXTINF:-1 tvg-id="150" tvg-name="Nick" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ea86bedcc4f35a5855683f064d311b67_playmist_teen_nick_400x400.jpg" group-title="Cartoon", teen Nick
+#EXTINF:-1 tvg-id="151" tvg-name="Nick" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ea86bedcc4f35a5855683f064d311b67_playmist_teen_nick_400x400.jpg" group-title="Cartoon", teen Nick
 https://tvsen7.aynaott.com/teennick/tracks-v1a1/mono.ts.m3u8
 
