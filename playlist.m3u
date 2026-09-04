@@ -1,130 +1,16 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="1" tvg-name="EUROPEAN T20 vs Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Live Event",EUROPEAN T20 vs Premier League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD
+#EXTINF:-1 tvg-id="1" tvg-name="Women's Asia Cup 2026" tvg-logo="https://www.etplofficial.com/uploads/etpl-logo-full.png" group-title="Live Event", Indonesia Women VS United Arab Emirates Women
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 $ https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Olympique Lyonnais vs Auxerre" tvg-logo="https://img.sofascore.com/api/v1/team/1649/image" group-title="Live Event",Olympique Lyonnais vs Auxerre
-https://tmaxapp.site/ligue6sc6/ligue1.m3u8#Ligue1+ France $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beIN SPORTS en Español $ https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8#beIN SPORTS USA
+#EXTINF:-1 tvg-id="1" tvg-name="EUROPEAN T20 e" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Live Event", EUROPEAN T20 
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8 
 
-#EXTINF:-1 tvg-id="3" tvg-name="Arminia Bielefeld vs FC St. Pauli" tvg-logo="https://img.sofascore.com/api/v1/team/2540/image" group-title="Live Event",Arminia Bielefeld vs FC St. Pauli
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD
+#EXTINF:-1 tvg-id="1" tvg-name="ELPL" tvg-logo="https://www.etplofficial.com/uploads/etpl-logo-full.png" group-title="Live Event", EUROPEAN T20 
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="Hannover 96 vs Karlsruher SC" tvg-logo="https://img.sofascore.com/api/v1/team/2541/image" group-title="Live Event",Hannover 96 vs Karlsruher SC
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD
 
-#EXTINF:-1 tvg-id="5" tvg-name="Abha vs Al-Ettifaq" tvg-logo="https://img.sofascore.com/api/v1/team/168090/image" group-title="Live Event",Abha vs Al-Ettifaq
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
 
-#EXTINF:-1 tvg-id="6" tvg-name="INDYCAR Series Racing vs INDYCAR Series Racing" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10" group-title="Live Event",INDYCAR Series Racing vs INDYCAR Series Racing
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae#FOX2 SPORTS FHD
-
-#EXTINF:-1 tvg-id="7" tvg-name="WRC Rally vs WRC Rally" tvg-logo="https://img.sofascore.com/api/v1/category/84/image" group-title="Live Event",WRC Rally vs WRC Rally
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8#RALLY TV HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD
-
-#EXTINF:-1 tvg-id="8" tvg-name="Barbados Tridents vs Saint Lucia Kings" tvg-logo="https://img.sofascore.com/api/v1/team/187795/image" group-title="Live Event",Barbados Tridents vs Saint Lucia Kings
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
-
-#EXTINF:-1 tvg-id="9" tvg-name="Guyana Amazon Warriors vs St Kitts and Nevis Patriots" tvg-logo="https://img.sofascore.com/api/v1/team/187823/image" group-title="Live Event",Guyana Amazon Warriors vs St Kitts and Nevis Patriots
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="Jamaica Empress Women vs Guyana Amazon Warriors Women" tvg-logo="https://img.sofascore.com/api/v1/team/1236071/image" group-title="Live Event",Jamaica Empress Women vs Guyana Amazon Warriors Women
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
-
-#EXTINF:-1 tvg-id="11" tvg-name="Barbados Tridents vs Trinbago Knight Riders" tvg-logo="https://img.sofascore.com/api/v1/team/187795/image" group-title="Live Event",Barbados Tridents vs Trinbago Knight Riders
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
-
-#EXTINF:-1 tvg-id="12" tvg-name="Barbados Tridents Women vs Trinbago Knight Riders Women" tvg-logo="https://img.sofascore.com/api/v1/team/451857/image" group-title="Live Event",Barbados Tridents Women vs Trinbago Knight Riders Women
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
-
-#EXTINF:-1 tvg-id="13" tvg-name="Guyana Amazon Warriors vs Jamaica Kingsmen" tvg-logo="https://img.sofascore.com/api/v1/team/187823/image" group-title="Live Event",Guyana Amazon Warriors vs Jamaica Kingsmen
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
-
-#EXTINF:-1 tvg-id="14" tvg-name="United Arab Emirates Women vs Indonesia Women" tvg-logo="https://img.sofascore.com/api/v1/team/291494/image" group-title="Live Event",United Arab Emirates Women vs Indonesia Women
-https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD
-
-#EXTINF:-1 tvg-id="15" tvg-name="Namibia vs South Africa" tvg-logo="https://img.sofascore.com/api/v1/team/199275/image" group-title="Live Event",Namibia vs South Africa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788550217~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9a02cffb330a61c039a16a70f2445d5076027230aed6d25ff62cc22d1505af4a/manifest.mpd?vcfilter=ca22801e-7e91-45cf-98ff-6e3ce26bc0b7&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A155.0)%20Gecko%2F20100101%20Firefox%2F155.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c#ICC TV FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD
-
-#EXTINF:-1 tvg-id="16" tvg-name="Clube De Regatas Brasil vs América Mineiro" tvg-logo="https://img.sofascore.com/api/v1/team/22032/image" group-title="Live Event",Clube De Regatas Brasil vs América Mineiro
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="17" tvg-name="New York City FC vs Nashville SC" tvg-logo="https://img.sofascore.com/api/v1/team/187643/image" group-title="Live Event",New York City FC vs Nashville SC
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="18" tvg-name="Athletic Club vs Vila Nova FC" tvg-logo="https://img.sofascore.com/api/v1/team/342775/image" group-title="Live Event",Athletic Club vs Vila Nova FC
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="19" tvg-name="Criciúma vs Cuiabá" tvg-logo="https://img.sofascore.com/api/v1/team/1984/image" group-title="Live Event",Criciúma vs Cuiabá
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="20" tvg-name="Club Atlético Platense vs Deportivo Riestra" tvg-logo="https://img.sofascore.com/api/v1/team/36837/image" group-title="Live Event",Club Atlético Platense vs Deportivo Riestra
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="21" tvg-name="Club Atlético Belgrano vs Huracán" tvg-logo="https://img.sofascore.com/api/v1/team/3203/image" group-title="Live Event",Club Atlético Belgrano vs Huracán
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd|drmScheme=clearkey&drmLicense=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05#ESPN1 SPORTS FHD
-
-#EXTINF:-1 tvg-id="22" tvg-name="Estudiantes de Río Cuarto vs Sarmiento" tvg-logo="https://img.sofascore.com/api/v1/team/266694/image" group-title="Live Event",Estudiantes de Río Cuarto vs Sarmiento
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="23" tvg-name="FC Porto vs Moreirense" tvg-logo="https://img.sofascore.com/api/v1/team/3002/image" group-title="Live Event",FC Porto vs Moreirense
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="24" tvg-name="Paris Saint-Germain vs AS Monaco" tvg-logo="https://img.sofascore.com/api/v1/team/1644/image" group-title="Live Event",Paris Saint-Germain vs AS Monaco
-https://tvsen7.aynaott.com/espn/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="25" tvg-name="Ipswich Town vs Liverpool FC" tvg-logo="https://img.sofascore.com/api/v1/team/32/image" group-title="Live Event",Ipswich Town vs Liverpool FC
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="26" tvg-name="Real Betis vs Real Madrid" tvg-logo="https://img.sofascore.com/api/v1/team/2816/image" group-title="Live Event",Real Betis vs Real Madrid
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="27" tvg-name="Quorn FC vs Shepshed Dynamo" tvg-logo="https://img.sofascore.com/api/v1/team/38743/image" group-title="Live Event",Quorn FC vs Shepshed Dynamo
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="28" tvg-name="Aveley FC vs Cheshunt FC" tvg-logo="https://img.sofascore.com/api/v1/team/219/image" group-title="Live Event",Aveley FC vs Cheshunt FC
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="29" tvg-name="Flackwell Heath vs Hanwell Town" tvg-logo="https://img.sofascore.com/api/v1/team/37993/image" group-title="Live Event",Flackwell Heath vs Hanwell Town
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="30" tvg-name="Ossett United vs Pontefract Collieries" tvg-logo="https://img.sofascore.com/api/v1/team/291566/image" group-title="Live Event",Ossett United vs Pontefract Collieries
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="31" tvg-name="Three Bridges FC vs Kingstonian" tvg-logo="https://img.sofascore.com/api/v1/team/47242/image" group-title="Live Event",Three Bridges FC vs Kingstonian
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="32" tvg-name="Lommel SK vs Club Brugge KV" tvg-logo="https://img.sofascore.com/api/v1/team/5046/image" group-title="Live Event",Lommel SK vs Club Brugge KV
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="33" tvg-name="Genoa vs Como" tvg-logo="https://img.sofascore.com/api/v1/team/2713/image" group-title="Live Event",Genoa vs Como
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="34" tvg-name="Piast Gliwice vs GKS Katowice" tvg-logo="https://img.sofascore.com/api/v1/team/7918/image" group-title="Live Event",Piast Gliwice vs GKS Katowice
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="35" tvg-name="UD Las Palmas vs Leganés" tvg-logo="https://img.sofascore.com/api/v1/team/6577/image" group-title="Live Event",UD Las Palmas vs Leganés
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="36" tvg-name="VfB Stuttgart vs 1. FC Köln" tvg-logo="https://img.sofascore.com/api/v1/team/2677/image" group-title="Live Event",VfB Stuttgart vs 1. FC Köln
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="37" tvg-name="Al-Ahli vs Al-Riyadh" tvg-logo="https://img.sofascore.com/api/v1/team/34469/image" group-title="Live Event",Al-Ahli vs Al-Riyadh
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="38" tvg-name="Al-Shabab vs Al-Hilal" tvg-logo="https://img.sofascore.com/api/v1/team/34313/image" group-title="Live Event",Al-Shabab vs Al-Hilal
-https://file.genoads.com/ch1.m3u8#STREAM TV + HD
-
-#EXTINF:-1 tvg-id="39" tvg-name="Formula 1 vs Formula" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="Live Event",Formula 1 vs Formula
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY F1 HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d#TSN1 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD $ http://193.47.62.41/hls/YTTTr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a#SKY F1 Italia [IT]
-
-#EXTINF:-1 tvg-id="40" tvg-name="SmackDown vs SmackDown" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg" group-title="Live Event",SmackDown vs SmackDown
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8#WWE LIVE FHD $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://edgestream2.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#HD STREAMING $ https://daffodil.demonpvp.fun/wwe.m3u8|Referer=https://roxiestreams.info#HD SERVER $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#HD SERVER 2 $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#TV WWE ALT $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8#HD QUALITY 2 $ https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8#SPORT CAST FHD $ https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8#WWE LIVE HD $ https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8#WWE SMACKDOWN $ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41#USA TV (US VPN)
-
-#EXTINF:-1 tvg-id="41" tvg-name="UFC vs UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10" group-title="Live Event",UFC vs UFC
-https://chatgpt.hereisman.net/playlist/55351/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#Corey Marksman vs Christian Barreto $ https://chatgpt.hereisman.net/playlist/55395/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#Brotherly Love Boxing: Price vs Guevara
-
-#EXTINF:-1 tvg-id="42" tvg-name="One Friday Fights vs One Friday Fights" tvg-logo="https://i.ibb.co/qfjhxpT/20260313-084834.png" group-title="Live Event",One Friday Fights vs One Friday Fights
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d#One Fight FHD $ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271#STREAM 2 $ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd|drmScheme=clearkey&drmLicense=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0#STREAM 3 $ https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8#HD QUALITY
 
 
 
