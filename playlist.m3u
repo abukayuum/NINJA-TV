@@ -1,24 +1,13 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="1" tvg-name="Bangladesh U19" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", Bangladesh U19
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8 $ https://iptv.aethelcode.workers.dev/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="EUROPEAN T20" tvg-logo="https://www.etplofficial.com/uploads/etpl-og-v2.png" group-title="Live Event", EUROPEAN T20
+#EXTINF:-1 tvg-id="1" tvg-name="EUROPEAN T20" tvg-logo="https://www.etplofficial.com/uploads/etpl-og-v2.png" group-title="Live Event", EUROPEAN T20
 https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8 $ https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="Live Event" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", LOCAL LIVE 1
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/384213.ts
-
-#EXTINF:-1 tvg-id="4" tvg-name="Live Event" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", LOCAL LIVE 2
+#EXTINF:-1 tvg-id="2" tvg-name="Live Event" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", LOCAL LIVE 1
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr-avc1_700000=4211053591-mp4a_128000=497751258.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="Live Event" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", LOCAL LIVE 3
-https://d9ssxzmclhfo4.cloudfront.net/bein_sportswebvtt.m3u8 
-
-#EXTINF:-1 tvg-id="6" tvg-name="Live Event" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", LOCAL LIVE 4
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/720p-cc/index.m3u8 $ https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE_Max.m3u8 
-
-#EXTINF:-1 tvg-id="7" tvg-name="Live Event" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", LOCAL LIVE 5
+#EXTINF:-1 tvg-id="3" tvg-name="Live Event" tvg-logo="https://static.flashscore.com/res/image/data/ELqDSsHG-I5chyk0E.png" group-title="Live Event", LOCAL LIVE 2
 https://a-cdn.klowdtv.com/live2/ftf_720p/chunks.m3u8 $ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 
 
