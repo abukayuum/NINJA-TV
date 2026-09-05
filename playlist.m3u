@@ -13,6 +13,9 @@ https://a-cdn.klowdtv.com/live2/ftf_720p/chunks.m3u8 $ https://aegis-cloudfront-
 #EXTINF:-1 tvg-id="4" tvg-name="Live Event" tvg-logo="https://www.nbc.com/sites/nbcblog/files/styles/scale_862/public/2024/07/paris-2024-olympics-soccer.jpg" group-title="Live Event", Live Football
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="5" tvg-name="Live Event" tvg-logo="https://img.magnific.com/premium-vector/cricket-batsman-shooting-action-figure-abstract-multicolor-illustration_872645-67.jpg" group-title="Live Event", Live cricket 
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 
+
 
 #EXTINF:-1 tvg-id="8" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 105
 https://tvx.kbhub.online/Bachelor-EP-105.m3u8
