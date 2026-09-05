@@ -23,6 +23,11 @@ https://a-cdn.klowdtv.com/live2/ftf_720p/chunks.m3u8 $ https://aegis-cloudfront-
 
 
 
+#EXTINF:-1 tvg-id="7" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor EP", Bachelor EP 105
+https://tvx.kbhub.online/Bachelor-EP-105.m3u8
+
+
+
 #EXTINF:-1 tvg-id="38" tvg-name="Aljazeera News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" group-title="News",Aljazeera News
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
