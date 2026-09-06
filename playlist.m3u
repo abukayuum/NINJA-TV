@@ -4,9 +4,11 @@
 #EXTINF:-1 tvg-id="1" tvg-name="EUROPEAN T20" tvg-logo="https://www.etplofficial.com/uploads/etpl-og-v2.png" group-title="Live Event", EUROPEAN T20
 https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8 $ https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="1.2" tvg-name="EUROPEAN T20" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530657540x302.jpg" group-title="Live Event", Malaga vs Levante
+#EXTINF:-1 tvg-id="1.2" tvg-name="Malaga vs Levante" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530657540x302.jpg" group-title="Live Event", Malaga vs Levante
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_1.m3u8
 
+#EXTINF:-1 tvg-id="1.3" tvg-name="CPL" tvg-logo="https://cdn.vectorstock.com/i/1000v/47/66/cpl-letter-logo-design-on-black-background-vector-46314766.jpg" group-title="Live Event", CPL 
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 
 
 #EXTINF:-1 tvg-id="2" tvg-name="Mirzapur" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16201104_b_v11_ab.jpg" group-title="Live Event", Mirzapur
 https://dr1.multidownload.store/d/139adf1b?eid=gdIMTZVV3pJRi1xOTViVFlBeUwtMTFtS3ZqM2xqelBqS1E0FVi&token=82b36b2209e161226b0d88b7&exp=1788695268&action=watch $ https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mirzapur%20-%20The%20Movie%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20720p%20HEVC%20HC-ESub.mkv
