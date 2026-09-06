@@ -371,7 +371,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/ANIMAL_PLANET.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/155772 NAT-GEO.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2bv3niBb4yER2BgqF03b30m3FaHlRzoHtocCymX9Zw&s=10" group-title="English Movie",HBO
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
+https://tvsen7.aynaott.com/hbo/tracks-v1/mono.ts.m3u8 $ https://tvsen3.aynaott.com/u3NjUrny/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="English Movie",AXN
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
