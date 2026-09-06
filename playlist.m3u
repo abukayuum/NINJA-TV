@@ -130,7 +130,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/Mohana_tv.m3u8 $ https://tvsen6.ayn
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
 
 #EXTINF:-1 tvg-id="66" tvg-name="Sa tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nz_HCc83lOYNX9vJzASwu0sKiUw0nUMr13kvK2zLqA&s=10" group-title="Bangladeshi",Sa tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="67" tvg-name="Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQut1HSjM_dlasdupGnVgcwkNv8Lr_xiPmvTHQYUyNbBg&s" group-title="Bangladeshi",Bangla tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8 $ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/tracks-v1a1/mono.ts.m3u8
@@ -193,7 +193,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/CHANNEL_24.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/News_24.m3u8
 
 #EXTINF:-1 tvg-id="84" tvg-name="News 24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png" group-title="BD News", SA TV
-https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/tracks-a1/mono.ts.m3u8
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/tracks-v1a1/mono.ts.m3u8 $ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="85" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s" group-title="BD News",Star News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
