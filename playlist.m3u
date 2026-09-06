@@ -328,7 +328,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/COLORS_HD.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/COLORS_CINPLEX.m3u8
 
 #EXTINF:-1 tvg-id="131" tvg-name="B4U Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnzxdP8-VmS1m5nxukY7H-EI3TiuHbD7D7I-CZQYGkg&s" group-title="Movie's",B4U Movies
-https://streams.tangotv.in/B4UMOVIES/ORIGIN/tracks-v1a1/mono.m3u8#.1 $ https://bdstream.bdstreamhubiptv.workers.dev/B4_MOVIE_HD.m3u8#1 $ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8#2 $ https://cdn-2.pishow.tv/live/415/master.m3u8
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/tracks-v1a1/mono.m3u8#.1 $ https://bdstream.bdstreamhubiptv.workers.dev/B4_MOVIE_HD.m3u8#1 $ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8#2 
 
 #EXTINF:-1 tvg-id="132" tvg-name="Zee Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10" group-title="Movie's",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
