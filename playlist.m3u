@@ -401,5 +401,20 @@ http://103.185.24.134:3001/HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="Nick" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ea86bedcc4f35a5855683f064d311b67_playmist_teen_nick_400x400.jpg" group-title="Cartoon", teen Nick
 https://tvsen7.aynaott.com/teennick/tracks-v1a1/mono.ts.m3u8
 
+
+#EXTINF:-1 tvg-id="153" tvg-name="NEW MOVIE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d7hpbefNiuebl5eqP5cRrckVxs.jpg" group-title="NEW MOVIE", Dhamaal 4
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%20720p%20HEVC%20ESub.mkv
+
+#EXTINF:-1 tvg-id="154" tvg-name="NEW MOVIE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/705nQHqe4JGdEisrQmVYmXyjs1U.jpg" group-title="NEW MOVIE", Sinners (2025) 
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Dhamaal%204%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%20720p%20HEVC%20ESub.mkv
+
+#EXTINF:-1 tvg-id="154" tvg-name="NEW MOVIE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg" group-title="NEW MOVIE", The Runner (2026)
+https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Runner%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20720p%20HEVC%20ESub.mkv
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="153" tvg-name="all song hub" tvg-logo="https://i.pinimg.com/736x/04/c3/22/04c322780fbe85965398da17cb5faf8b.jpg" group-title="Music",all song hub
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/tracks-v1a1/mono.m3u8#1 $ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8#3 $ https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8#4 
