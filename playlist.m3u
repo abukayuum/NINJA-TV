@@ -231,7 +231,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8 $ ht
 http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="Kolkata Movie",Jalsha Movies
-https://bdstream.bdstreamhubiptv.workers.dev/Jalsha_movies.m3u8 $ http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8 
+http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8 $ https://bdstream.bdstreamhubiptv.workers.dev/Jalsha_movies.m3u8 $ http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="97" tvg-name="Bangla Plues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s" group-title="BD & Kolkata Movie",Bangla Plues
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
