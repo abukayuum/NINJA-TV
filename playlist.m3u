@@ -5,7 +5,7 @@
 https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8 $ https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="1.2" tvg-name="Malaga vs Levante" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530657540x302.jpg" group-title="Live Event", Malaga vs Levante
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_1.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8 $ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_1.m3u8
 
 #EXTINF:-1 tvg-id="1.3" tvg-name="CPL" tvg-logo="https://cdn.vectorstock.com/i/1000v/47/66/cpl-letter-logo-design-on-black-background-vector-46314766.jpg" group-title="Live Event", CPL 
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 
