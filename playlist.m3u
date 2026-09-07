@@ -54,11 +54,17 @@ https://tvx.kbhub.online/Bachelor-EP-111.m3u8
 https://tvx.kbhub.online/Bachelor-EP-112.m3u8
 
 
-#EXTINF:-1 tvg-id="38" tvg-name="Aljazeera News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" group-title="News",Aljazeera News
+#EXTINF:-1 tvg-id="36" tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="Islamic Tv",Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Aljazeera News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" group-title="Bangladeshi",Aljazeera News
 https://live-hls-apps-aje-fa.getaj.net/AJE/02.m3u8
 
+#EXTINF:-1 tvg-id="37" tvg-name="Iqra Bangla" tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="Islamic Tv",Iqra Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="39" tvg-name="Peace Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s" group-title="Islamic Tv",Peace Tv
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8 
 
 #EXTINF:-1 tvg-id="40" tvg-name="Makkah tv" tvg-logo="https://www.makkahlivemedia.com/assets/images/library/6a0884d916de3.png" group-title="Islamic Tv",Makkah tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
