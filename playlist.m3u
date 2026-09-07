@@ -54,6 +54,11 @@ https://tvx.kbhub.online/Bachelor-EP-111.m3u8
 https://tvx.kbhub.online/Bachelor-EP-112.m3u8
 
 
+#EXTINF:-1 tvg-id="16" group-title="BAN vs AUS", Willow Cricket
+https://playerado.top/news.php?id=willow&v=su|Referer=https://player0003.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+
+
 #EXTINF:-1 tvg-id="36" tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="Islamic Tv",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 
