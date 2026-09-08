@@ -222,21 +222,22 @@ https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8 $ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8 $ http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="91" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10" group-title="Kolkata Serial",Zee Bangla
-https://bdstream.bdstreamhubiptv.workers.dev/ZEE_BANGLA.m3u8 $ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8 $ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
+https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8 $ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8 $ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8 $ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-name="Colours Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10" group-title="Kolkata Serial",Colours Bangla
-http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8 $ 
+http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8 
+
 #EXTINF:-1 tvg-id="93" tvg-name="Colors bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10" group-title="Kolkata Movie",Colors bangla Cinema
-https://bdstream.bdstreamhubiptv.workers.dev/Colors_Bangla.m3u8
+http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-id="94" tvg-name="Zee Bangla Sonar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAklcxN6Y1gXaHLZhf80ex6Yd2e8R2FWovyYuES7flQ&s=10" group-title="Kolkata Movie",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8 $ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8 $ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="95" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s" group-title="Kolkata Serial",Sony Aath
-http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8 $ http://live.balajibroadband.com:3500/live/697.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8#HD
 
 #EXTINF:-1 tvg-id="96" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="Kolkata Movie",Jalsha Movies
-http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8 $ https://bdstream.bdstreamhubiptv.workers.dev/Jalsha_movies.m3u8 $ http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8 
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 
 #EXTINF:-1 tvg-id="97" tvg-name="Bangla Plues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s" group-title="BD & Kolkata Movie",Bangla Plues
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -263,7 +264,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/HUNGAMA_HD.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10" group-title="Cartoon",Sonic
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=686717770
+http://live.balajibroadband.com:3500/live/1345.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtaeVWP8Y2zUFQAdpqzY1cUfzcPW7JtNIEJCEYdGwAg&s=10" group-title="Cartoon",Disney
 https://tvsen7.aynaott.com/disney/tracks-v1a1/mono.ts.m3u8
@@ -272,7 +273,7 @@ https://tvsen7.aynaott.com/disney/tracks-v1a1/mono.ts.m3u8
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="Pogo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10" group-title="Cartoon",Pogo
-https://bdstream.bdstreamhubiptv.workers.dev/POCOHINDI.m3u8
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8 $ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="109" tvg-name="Sony YAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnJnfhga0E8npZuLba7hKlOwun2tSaNGN4O-cRVezPw&s" group-title="Cartoon",Sony YAY
 https://bdstream.bdstreamhubiptv.workers.dev/SONY_YAY.m3u8
@@ -290,7 +291,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/Jungli_Book.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-name="Cartoon Network " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="Cartoon",Cartoon Network 
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21 $ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 tvg-id="115" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="Hindi Serial",Star Plus
 https://bdstream.bdstreamhubiptv.workers.dev/StarplusHD.m3u8
@@ -404,7 +405,7 @@ https://d2esfk1pb9cdob.cloudfront.net/chunklist_0.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
 #EXTINF:-1 tvg-id="152" tvg-name="Hungama" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png" group-title="Cartoon",Hungama
-http://103.185.24.134:3001/HUNGAMA/tracks-v1a1/mono.m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/HUNGAMA_HD.m3u8
 
 #EXTINF:-1 tvg-id="151" tvg-name="Nick" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ea86bedcc4f35a5855683f064d311b67_playmist_teen_nick_400x400.jpg" group-title="Cartoon", teen Nick
 https://tvsen7.aynaott.com/teennick/tracks-v1a1/mono.ts.m3u8
