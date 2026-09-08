@@ -299,13 +299,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd?|drmSchem
 https://bdstream.bdstreamhubiptv.workers.dev/StarplusHD.m3u8
 
 #EXTINF:-1 tvg-id="116" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="Sports",Star Sports 1
-https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS1.m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS1.m3u8#1 $https://xtream.kbhub.online/live/kblivetv/kblivetv/98864.ts#4k $https://xtream.kbhub.online/live/kblivetv/kblivetv/98866.ts#4k $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98867.ts$4k
 
 #EXTINF:-1 tvg-id="117" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="Sports",Star Sports 2
-https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8#1 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98865.ts#4k $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98868.ts#k
 
 #EXTINF:-1 tvg-id="118" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8nMR8vUPapumxtPTB0p3E0ZZYfr6xeVhfwXmuTXuHQ&s=10" group-title="Sports",STAR SPORTS SELECT 2
-https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT2.m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT2.m3u8 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98864.ts
 
 #EXTINF:-1 tvg-id="119" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="Sports",Ptv 
 https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
@@ -330,6 +330,11 @@ https://bdstream.bdstreamhubiptv.workers.dev/WILLOW_SPORTS.m3u8
 #EXTINF:-1 tvg-id="125" tvg-name="Ten Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtnM0Lznz1iBnp9AjQETh1HXJ3LCMalP6jyxGCFuDUw&s=10" group-title="Sports",Ten Sports 
 https://bdstream.bdstreamhubiptv.workers.dev/TEN_SPORTS.m3u8 $ https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="127.1" tvg-name="LIVERPOOL FC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports",LIVERPOOL FC HD
+https://xtream.kbhub.online/live/kblivetv/kblivetv/30.ts
+
+#EXTINF:-1 tvg-id="127.2" tvg-name="TNT Sport 3" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports",TNT Sport 3
+https://xtream.kbhub.online/live/kblivetv/kblivetv/283.ts
 
 #EXTINF:-1 tvg-id="127" tvg-name="Sony ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports",Sony ten 5
 https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_5.m3u8
