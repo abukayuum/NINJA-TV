@@ -13,8 +13,6 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 tvg-id="1.5" tvg-name="Barcelona Match " tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", Barcelona Match
 https://tvx.kbhub.online/Barcelona-Match.m3u8#1 $ https://tvx.kbhub.online/Barcelona-Match-2.m3u8#2
 
-#EXTINF:-1 tvg-id="1.5" tvg-name="tesing link" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", testing link
-https://ais-dev-zou2rshtiihpeapfcynckx-684768677037.asia-southeast1.run.app/api/p/ba28ba0c.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="Mirzapur" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16201104_b_v11_ab.jpg" group-title="Live Event", Mirzapur
 https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mirzapur%20-%20The%20Movie%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20720p%20HEVC%20HC-ESub.mkv
