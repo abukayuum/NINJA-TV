@@ -10,17 +10,6 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 $ https://xtream.kb
 #EXTINF:-1 tvg-id="1.4" tvg-name="England vs Pakistan" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Live Event",England vs Pakistan
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 $ https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8 $ https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="1.6" tvg-name="Liverpool vs Atlegico Madrid " tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", Liverpool vs Atlegico Madrid
-https://tvx.kbhub.online/Liverpool-vs-Atlegico-Madrid.m3u8
-
-#EXTINF:-1 tvg-id="1.7" tvg-name="Liverpool vs Atletico Match " tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event",  Liverpool vs Atletico Match
-https://tvx.kbhub.online/Liverpool-vs-Atletico-Match.m3u8
-
-#EXTINF:-1 tvg-id="1.8" tvg-name="Arsenal vs Napoli Match " tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", Arsenal vs Napoli Match
-https://tvx.kbhub.online/Arsenal-vs-Napoli.m3u8
-
-#EXTINF:-1 tvg-id="1.9" tvg-name="PSG Match Match " tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", PSG Match Match
-https://tvx.kbhub.online/PSG-Match.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="Mirzapur" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16201104_b_v11_ab.jpg" group-title="Live Event", Mirzapur
 https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mirzapur%20-%20The%20Movie%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20720p%20HEVC%20HC-ESub.mkv
