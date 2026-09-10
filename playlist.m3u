@@ -13,11 +13,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 tvg-id="1.5" tvg-name="Liverpool vs Atlegico Madrid" tvg-logo="https://web-cdnprod.aa.com.tr/uploads/Contents/2021/10/20/thumbs_b_c_4f5e5eeffb04ef7036cdaee5cb18b2c8.jpg" group-title="Live Event", Liverpool vs Atlegico Madrid
 https://tvx.kbhub.online/Liverpool-vs-Atlegico-Madrid.m3u8
 
-#EXTINF:-1 tvg-id="1.5" tvg-name="PSG Match " tvg-logo="https://web-cdnprod.aa.com.tr/uploads/Contents/2021/10/20/thumbs_b_c_4f5e5eeffb04ef7036cdaee5cb18b2c8.jpg" group-title="Live Event",PSG Match 
-https://tvx.kbhub.online/PSG-Match.m3u8
-
-#EXTINF:-1 tvg-id="1.6" tvg-name="🏆 Asia Cap 2026 (Semi Final)" tvg-logo="https://static.cricbuzz.com/a/img/v1/i1/c1070008/match-forecast-womens-asia-cup-ind-w-vs-ban-w-semi-final-1.jpg?d=high&p=det" group-title="Live Event", 🏆 Asia Cap 2026 (Semi Final)
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8 $ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8 $ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1.5" tvg-name=" Liverpool vs Atletico Match" tvg-logo="https://web-cdnprod.aa.com.tr/uploads/Contents/2021/10/20/thumbs_b_c_4f5e5eeffb04ef7036cdaee5cb18b2c8.jpg" group-title="Live Event", Liverpool vs Atletico Match
+https://tvx.kbhub.online/Liverpool-vs-Atletico-Match.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="Mirzapur" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16201104_b_v11_ab.jpg" group-title="Live Event", Mirzapur
 https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Mirzapur%20-%20The%20Movie%20%282026%29%20HDTC%20%5BHindi%20LiNE%5D%20720p%20HEVC%20HC-ESub.mkv
