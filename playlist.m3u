@@ -16,7 +16,7 @@ https://tvx.kbhub.online/Liverpool-vs-Atlegico-Madrid.m3u8
 #EXTINF:-1 tvg-id="1.6" tvg-name="Liverpool-vs-Atletico" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event",Liverpool-vs-Atletico
 https://tvx.kbhub.online/Liverpool-vs-Atletico-Match.m3u8
 
-#EXTINF:-1 tvg-id="1.7" tvg-name=" india vs sri lanka" tvg-logo="https://c.ndtvimg.com/2025-12/hd6i8tig_india-vs-sri-lanka_625x300_30_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900" group-title="Live Event", india vs sri lanka
+#EXTINF:-1 tvg-id="1.7" tvg-name=" india vs sri lanka" tvg-logo="https://c.ndtvimg.com/2025-12/hd6i8tig_india-vs-sri-lanka_625x300_30_December_25.jpg" group-title="Live Event", india vs sri lanka
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8 
 
 #EXTINF:-1 tvg-id="1.8" tvg-name=" india vs afghanistan cricket match" tvg-logo="https://images.indianexpress.com/2026/09/India-vs-Afghanistan_1st-T20I-copy.jpg.jpeg?w=640" group-title="Live Event",india vs afghanistan cricket match
