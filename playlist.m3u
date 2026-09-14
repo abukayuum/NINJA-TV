@@ -7,48 +7,8 @@ https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8#1 $ https://tvs
 #EXTINF:-1 tvg-id="1.3" tvg-name="CPL" tvg-logo="https://cdn.vectorstock.com/i/1000v/47/66/cpl-letter-logo-design-on-black-background-vector-46314766.jpg" group-title="Live Event", CPL 
 https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/5030.ts $ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
-#EXTINF:-1 tvg-id="1.4" tvg-name=" Liverpool vs Atletico" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", Liverpool vs Atletico
-https://tvx.kbhub.online/Liverpool-vs-Atletico-Match.m3u8
-
-#EXTINF:-1 tvg-id="1.5" tvg-name="Liverpool vs Atlegico Madrid" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event",Liverpool vs Atlegico Madrid
-https://tvx.kbhub.online/Liverpool-vs-Atlegico-Madrid.m3u8
-
-#EXTINF:-1 tvg-id="1.6" tvg-name="Liverpool-vs-Atletico" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event",Liverpool-vs-Atletico
-https://tvx.kbhub.online/Liverpool-vs-Atletico-Match.m3u8
-
-#EXTINF:-1 tvg-id="1.7" tvg-name=" india vs sri lanka END" tvg-logo="https://c.ndtvimg.com/2025-12/hd6i8tig_india-vs-sri-lanka_625x300_30_December_25.jpg" group-title="Live Event", india vs sri lanka END 
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8 
-
-#EXTINF:-1 tvg-id="1.8" tvg-name=" india vs afghanistan cricket match END" tvg-logo="https://images.indianexpress.com/2026/09/India-vs-Afghanistan_1st-T20I-copy.jpg.jpeg?w=640" group-title="Live Event",india vs afghanistan cricket match END 
-https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 $ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="8" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 105
-https://tvx.kbhub.online/Bachelor-EP-105.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 106
-https://tvx.kbhub.online/Bachelor-EP-106.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 107
-https://tvx.kbhub.online/Bachelor-EP-107.m3u8
-
-#EXTINF:-1 tvg-id="11" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 108
-https://tvx.kbhub.online/Bachelor-EP-108.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 109
-https://tvx.kbhub.online/Bachelor-EP-109.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 110
-https://tvx.kbhub.online/Bachelor-EP-110.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 111
-https://tvx.kbhub.online/Bachelor-EP-111.m3u8
-
-#EXTINF:-1 tvg-id="15" tvg-name=" Bachelor " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTc0OGQtOWRkZS00ODkzLWIxNDAtZGFjMTNiZmJiMDBhXkEyXkFqcGc@._V1_.jpg" group-title="Bachelor ", Bachelor EP 112
-https://tvx.kbhub.online/Bachelor-EP-112.m3u8
 
 
 #EXTINF:-1 tvg-id="36" tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="Islamic Tv",Quran TV
