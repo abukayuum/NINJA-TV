@@ -16,7 +16,7 @@ https://tvx.kbhub.online/PSG-Match.m3u8
 
 
 #EXTINF:-1 tvg-id="1.4" tvg-name="NINJA TV 24/7" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="Live Event", NINJA TV 24/7 
-https://my-iptv-channel-1.onrender.com/live/stream.m3u8
+https://my-iptv-channel-1.onrender.com/live/stream.m3u8 $ https://inf.fly.dev/live/stream.m3u8
 
 #EXTINF:-1 tvg-id="36" tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="Islamic Tv",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
