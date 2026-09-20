@@ -141,7 +141,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/DESH_TV.m3u8 $ https://tvsen6.aynao
 #EXTINF:-1 tvg-id="75" tvg-name="Desh tv" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BD News",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="76" tvg-name="Channel 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10" group-title="BD News",Channel 1
+#EXTINF:-1 tvg-id="76" tvg-name="Channel 1" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2025/02/24/channel_1.png" group-title="BD News",Channel 1
 https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="77" tvg-name="Jago News Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="BD News",Jago News Tv
