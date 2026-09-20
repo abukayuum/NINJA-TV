@@ -202,10 +202,10 @@ http://live.balajibroadband.com:3500/live/1657.m3u8#1 $ https://xtream2.kbhub.on
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8 $ https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8 $ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="95" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s" group-title="Kolkata Serial",Sony Aath
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8 $ http://live.balajibroadband.com:3500/live/697.m3u8 $ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8#HD
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8 $ 
 
 #EXTINF:-1 tvg-id="96" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="Kolkata Movie",Jalsha Movies
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/425.ts#1 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/425.ts#2 # https://xtream.kbhub.online/live/kblivetv/kblivetv/23304.ts#3 
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/425.ts#1 $ https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8#2 # https://xtream.kbhub.online/live/kblivetv/kblivetv/23304.ts#3 
 
 #EXTINF:-1 tvg-id="97" tvg-name="Bangla Plues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s" group-title="BD & Kolkata Movie",Bangla Plues
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -268,10 +268,10 @@ https://bdstream.bdstreamhubiptv.workers.dev/StarplusHD.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS1.m3u8#1 $https://xtream.kbhub.online/live/kblivetv/kblivetv/98864.ts#4k $https://xtream.kbhub.online/live/kblivetv/kblivetv/98866.ts#4k $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98867.ts$4k
 
 #EXTINF:-1 tvg-id="117" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="Sports",Star Sports 2
-https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8#1 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98865.ts#4k $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98868.ts#k
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8#1 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98865.ts#4k $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98868.ts#k
 
 #EXTINF:-1 tvg-id="118" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8nMR8vUPapumxtPTB0p3E0ZZYfr6xeVhfwXmuTXuHQ&s=10" group-title="Sports",STAR SPORTS SELECT 2
-https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT2.m3u8 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/98864.ts
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8$ https://xtream.kbhub.online/live/kblivetv/kblivetv/98864.ts
 
 #EXTINF:-1 tvg-id="119" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="Sports",Ptv 
 https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
