@@ -1,12 +1,11 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="EUROPEAN T20" tvg-logo="https://www.etplofficial.com/uploads/etpl-og-v2.png" group-title="Live Event", EUROPEAN T20
-https://tvsen5.aynaott.com/cXPB2LKkErN9/tracks-v1a1/mono.ts.m3u8#1 $ https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8#2 $https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8#3
+#EXTINF:-1 tvg-id="1" tvg-name="Aston Villa vs Feerbache" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", Aston Villa vs Feerbache
+https://tv.kbhub.online/Live-Event-Sports/Aston-Villa-vs-Feerbache.m3u8
 
-#EXTINF:-1 tvg-id="1.3" tvg-name="CPL" tvg-logo="https://cdn.vectorstock.com/i/1000v/47/66/cpl-letter-logo-design-on-black-background-vector-46314766.jpg" group-title="Live Event", CPL 
-https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8 $ https://xtream.kbhub.online/live/kblivetv/kblivetv/5030.ts $ https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
-
+#EXTINF:-1 tvg-id="1.3" tvg-name="TESING" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", TESING 
+https://tv.kbhub.online/Live-Event-Sports/PTV.m3u8
 
 #EXTINF:-1 tvg-id="1.5" tvg-name="Bachelor EP" tvg-logo="https://cineimg.xyz/images/c8137023e190d89d41f109d416a19c14.webp" group-title="Live Event", Bachelor EP
 https://pub-72f8561579ee4a6f882308f1e7772b17.r2.dev/CINEFREAK.TOP%20-%20Bachelor%20Point%20%5BS05E113-116%5D%20WEB-DL%20%5BBengali%5D%20720p.mkv $ https://stream.mux.com/9ZqmPJnhgtKUZe4iBVIZZqJGk7msopJzSp1k2Iw1Hco.m3u8
