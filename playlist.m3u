@@ -1,11 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="Inter Miami Match" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", Inter Miami Match
-https://tv.kbhub.online/Live-Event-Sports/Inter-Miami-Match.m3u8
-
-#EXTINF:-1 tvg-id="1.3" tvg-name="Inter Miami Match 2" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg" group-title="Live Event", Inter Miami Match 2 
-https://tv.kbhub.online/Live-Event-Sports/Inter-Miami-Match-2.m3u8
 
 #EXTINF:-1 tvg-id="1.4" tvg-name="NINJA TV 24/7" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="Live Event", NINJA TV 24/7 
 https://my-iptv-channel-1.onrender.com/live/stream.m3u8 
