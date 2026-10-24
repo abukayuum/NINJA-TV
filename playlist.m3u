@@ -1,7 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1" tvg-name="2nd T20I | India Tour of New Zealand 2026" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1792058353324x432.jpg" group-title="Live Event", 2nd T20I | India Tour of New Zealand 2026
-https://tesing-now-just-bypass-sony-live-link.onrender.com/proxy?url=https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1
+https://tesing-now-just-bypass-sony-live-link.onrender.com/proxy?url=https://liveakmt-m-lr.slivcdn.com/v1/manifest/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/ffb26abb-4370-41a0-86dc-ee0d5ccde368/hdntl=exp=1792924657~acl=%2f*~id=28325060572396203695576858139302~data=hdntl,2119931,cricodi_2410,ENG~hmac=25b8852b7e97d49732d89528a19bb8ddf097be151e9b3ec5e41a5ca69a2665e2/9.m3u8
+
 #EXTINF:-1 tvg-id="1.4" tvg-name="NINJA TV 24/7" tvg-logo="https://t4.ftcdn.net/jpg/02/36/41/51/360_F_236415197_aHuHuTomAaURIX0UKAGCdWkOGTO4qBfH.jpg" group-title="Live Event", NINJA TV 24/7 
 https://my-iptv-channel-1.onrender.com/live/stream.m3u8 
 
